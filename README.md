@@ -1,4 +1,4 @@
-# Angular Production
+# Angular Production Application
 
 ![Angular Production App](apps/dashboard/src/assets/screenshots/app.png)
 
